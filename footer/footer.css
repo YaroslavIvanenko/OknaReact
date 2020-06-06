@@ -1,0 +1,16 @@
+#f {
+	background: #2d2d2d;
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+
+#f i {
+	color: aqua;
+	font-size: 30px;
+	padding: 20px;
+}
+
+
+#f i:hover {
+	color: #ff7878;
+}
